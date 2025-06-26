@@ -33,3 +33,8 @@ cd "$HOME\Documents\Scripts-Seguridad"
 Ejecuta el Script: 
 .\revisar-seguryt.ps1
 
+
+¿Para que sirve? 
+Usuarios que quieren verificar la seguridad básica de su PC, Técnicos que realizan revisiones en entornos Windows y Aprender PowerShell orientado a la ciberseguridad.
+
+OjO : Este script no elimina ni modifica configuraciones, solo informa al usuario. Sin embargo, debe ejecutarse con permisos de administrador para poder obtener toda la información.
